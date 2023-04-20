@@ -1,0 +1,20 @@
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\bin\Debug\prjHafta12.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\bin\Debug\prjHafta12.exe
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\bin\Debug\prjHafta12.pdb
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.exe
+C:\Users\CSAdmin\source\repos\prjHafta12\prjHafta12\obj\Debug\prjHafta12.pdb
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\bin\Debug\prjHafta12.exe.config
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\bin\Debug\prjHafta12.exe
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\bin\Debug\prjHafta12.pdb
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.Form1.resources
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.Properties.Resources.resources
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.exe
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\12.Hafta\prjHafta12\prjHafta12\obj\Debug\prjHafta12.pdb

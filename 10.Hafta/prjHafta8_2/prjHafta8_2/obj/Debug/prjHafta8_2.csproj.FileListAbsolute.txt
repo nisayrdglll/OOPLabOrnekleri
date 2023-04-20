@@ -1,0 +1,22 @@
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\bin\Debug\prjHafta8_2.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\bin\Debug\prjHafta8_2.exe
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\bin\Debug\prjHafta8_2.pdb
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.ucntrlParca.resources
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.exe
+C:\Users\CSAdmin\source\repos\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.pdb
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\bin\Debug\prjHafta8_2.exe.config
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\bin\Debug\prjHafta8_2.exe
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\bin\Debug\prjHafta8_2.pdb
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.Form1.resources
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.Properties.Resources.resources
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.ucntrlParca.resources
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.exe
+C:\Users\user\Desktop\Nesneye Yönelik Programlama\10.Hafta\prjHafta8_2\prjHafta8_2\obj\Debug\prjHafta8_2.pdb
